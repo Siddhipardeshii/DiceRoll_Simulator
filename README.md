@@ -21,7 +21,7 @@ A simple Python GUI project where users guess a dice number, roll the dice, and 
 ## 📦 Install
 
 ```bash
-pip install pillow matplotlib
+pip install -r requirements.txt
 ```
 
 ## ▶️ Run
